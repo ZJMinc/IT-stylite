@@ -1,0 +1,12 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+.block{
+	float: left;
+	width: 30%;
+	/* margin-top（bottom）或者padding-top（bottom）的百分比取值都是相对于父元素的宽度 */
+	padding-bottom: 30%;
+	margin-left: 2%;
+	margin-top: 2%;
+}
