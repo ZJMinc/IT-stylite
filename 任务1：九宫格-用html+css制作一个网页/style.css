@@ -3,6 +3,7 @@
 	padding: 0;
 }
 .block{
+	border-radius:5px;
 	float: left;
 	width: 30%;
 	/* margin-top（bottom）或者padding-top（bottom）的百分比取值都是相对于父元素的宽度 */
